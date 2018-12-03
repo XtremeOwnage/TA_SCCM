@@ -1,0 +1,11 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[transforms/cmtrace_formatMessage]
+version = 7.0.0
+modtime = 1510848214.496683000
+
+[props/cmtrace/EVAL-raw]
+version = 7.0.0
+modtime = 1510848382.715773000
